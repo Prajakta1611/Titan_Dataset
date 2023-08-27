@@ -1,0 +1,1 @@
+We will use the classic Titanic dataset. The dataconsists of demographic and traveling information for 889 of the Titanic passengers, and the goal isto predict the survival of these passengers.This dataset contains information about general information and detail of each passengers.
